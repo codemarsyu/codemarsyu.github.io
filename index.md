@@ -6,6 +6,9 @@ Previously, I was a Research Associate at the Centre for Infocomm Technology (IN
 ### News
 Coming soon
 
+### Projects
+Comming soon
+
 ### Publications
 
 * **Ruoyu Li**, Junzhou Huang, “Fast Regions-of-Interest Detection in Whole Slide Histopathology Images,” 1st International Workshop on Patch-based Techniques in Medical Imaging, PMI'15, Munich, Germany, October 2015. (**Oral Presentation**).
