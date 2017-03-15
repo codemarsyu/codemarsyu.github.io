@@ -10,9 +10,15 @@ I am a PhD student of the department of Computer Science and Engineering at the 
 
 ### Publication
 
-* Ruoyu Li, Junzhou Huang, “Fast Regions-of-Interest Detection in Whole Slide Histopathology Images,” 1st International Workshop on Patch-based Techniques in Medical Imaging, PMI'15, Munich, Germany, October 2015. (**Oral Presentation**).
-* 
+* **Ruoyu Li**, Junzhou Huang, “Fast Regions-of-Interest Detection in Whole Slide Histopathology Images,” 1st International Workshop on Patch-based Techniques in Medical Imaging, PMI'15, Munich, Germany, October 2015. (**Oral Presentation**).
+* **Ruoyu Li**, Yeqing Li, Ruogu Fang, Shaoting Zhang, Hao Pan, Junzhou Huang, “Fast Preconditioning for Accelerated Multi-Contrast MRI Reconstruction,” 18th Annual International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI'15, Munich, Germany, October 2015 (**Oral Presentation** ~ 4\% acceptance rate}).
+
+* Chen Chen, Venkaiah Chowdary Kavuri, Xinlong Wang, **Ruoyu Li**, Hanli Liu, Junzhou Huang, "Multi-frequency Diffuse Optical Tomography for Cancer Detection", In Proc. of IEEE International Symposium on Biomedical Imaging, ISBI'15, Brooklyn Bridge, NY, USA, April 2015.
+
+* Onur Ozdemir, **Ruoyu Li**,  Pramod K. Varshney, “Hybrid Maximum Likelihood Modulation Classification Using Multiple Radios,” Communications Letters, IEEE , vol.17, no.10, pp.1889,1892, October 2013.
+
+* **Ruoyu Li**, *_Master Thesis_*, "Modulation classification and parameter estimation in wireless networks." (2012).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our lab website [documentation](https://help.github.com/categories/github-pages-basics/) or [contact me](https://codemarsyu.github.io/) and I’ll be happy to be reached out.
