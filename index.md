@@ -15,7 +15,7 @@ Coming soon
 
 * Onur Ozdemir, **Ruoyu Li**,  Pramod K. Varshney, “Hybrid Maximum Likelihood Modulation Classification Using Multiple Radios,” Communications Letters, IEEE , vol.17, no.10, pp.1889,1892, October 2013.
 
-* **Ruoyu Li**, *_Master Thesis_*, "Modulation classification and parameter estimation in wireless networks." (2012).
+* **Ruoyu Li**, _Master Thesis_, "Modulation classification and parameter estimation in wireless networks." (2012).
 
 ### Contact
 
