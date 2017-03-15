@@ -23,3 +23,4 @@ Comming soon
 ### Contact
 
  **E-mail**: __ruoyu.li AT mavs.uta.edu__ and I’ll be happy to be reached out.
+ [**LinkedIn**](https://www.linkedin.com/in/codemarsyu/)
