@@ -1,4 +1,4 @@
-![alt text](https://github.com/codemarsyu/codemarsyu.github.io/blob/master/touxiang.jpg "Portrait")
+![Portrait](https://github.com/codemarsyu/codemarsyu.github.io/blob/master/touxiang.jpg)
 
 
 I am a PhD student of the [Department of Computer Science and Engineering](https://cse.uta.edu/index.php) at the [University of Texas at Arlington](http://www.uta.edu/uta/). I am currently working on data mining, machine learning, computer vision and their applications, under the supervision of [Dr. Junzhou Huang](http://ranger.uta.edu/~huang/).
