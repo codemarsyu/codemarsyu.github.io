@@ -4,6 +4,9 @@ I am a PhD student of the [Department of Computer Science and Engineering](https
 
 Previously, I was a Research Associate at the Centre for Infocomm Technology (INFINITUS), [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx), Singapore. I worked on GPS-free Collaborative Urban Positioning System. Before joining NTU, I received my M.Sci. in the Department of Electrical Eingineering and Computer Science, Syracuse University, advised by [Dr. Pramod Varshney](http://ecs.syr.edu/research/sensorfusionlab/people/varshney/) in 2012 and B.Eng. in the Department of Civial Aviation Engineering, the [Northwestern Polytechnical University](http://hangkong.nwpu.edu.cn/home/Department/dptshow/DepartmentofCivilAviationEngineering.html) (NWPU) in 2010.
 
+### News
+Coming soon
+
 ### Publications
 
 * **Ruoyu Li**, Junzhou Huang, “Fast Regions-of-Interest Detection in Whole Slide Histopathology Images,” 1st International Workshop on Patch-based Techniques in Medical Imaging, PMI'15, Munich, Germany, October 2015. (**Oral Presentation**).
