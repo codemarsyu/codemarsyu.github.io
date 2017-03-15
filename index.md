@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/codemarsyu/codemarsyu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Introduction
 
 I am a PhD student of the department of Computer Science and Engineering at the University of Texas at Arlington. I am currently working on data mining, machine learning, computer vision and their applications, under the supervision of Dr. Junzhou Huang.
