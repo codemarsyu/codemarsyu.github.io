@@ -2,8 +2,7 @@
 
 I am a PhD student of the [Department of Computer Science and Engineering](https://cse.uta.edu/index.php) at the [University of Texas at Arlington](http://www.uta.edu/uta/). I am currently working on data mining, machine learning, computer vision and their applications, under the supervision of [Dr. Junzhou Huang](http://ranger.uta.edu/~huang/).
 
-Previously, I was a Research Associate at
-Group, School of Electrical and Electronic Engineering, [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx), Singapore. I worked on GPS-free Collaborative Urban Positioning System. Before joining NTU, I received my M.Sci. in the Department of Electrical Eingineering and Computer Science, Syracuse University, advised by [Dr. Pramod Varshney](http://ecs.syr.edu/research/sensorfusionlab/people/varshney/), 2012 and B.Eng. in the Department of Civial Aviation Engineering, the [Northwestern Polytechnical University](http://hangkong.nwpu.edu.cn/home/Department/dptshow/DepartmentofCivilAviationEngineering.html) (NWPU),2010.
+Previously, I was a Research Associate at the School of Electrical and Electronic Engineering, [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx), Singapore. I worked on GPS-free Collaborative Urban Positioning System. Before joining NTU, I received my M.Sci. in the Department of Electrical Eingineering and Computer Science, Syracuse University, advised by [Dr. Pramod Varshney](http://ecs.syr.edu/research/sensorfusionlab/people/varshney/) in 2012 and B.Eng. in the Department of Civial Aviation Engineering, the [Northwestern Polytechnical University](http://hangkong.nwpu.edu.cn/home/Department/dptshow/DepartmentofCivilAviationEngineering.html) (NWPU) in 2010.
 
 ### Publications
 
