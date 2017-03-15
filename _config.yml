@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 #title: Welcome to Ruoyu Li 's Homepage
 #description: feel free to bookmark this page to keep update my project progress.
 navbar:
-  title: "Alex Singleton"
+  title: "Ruoyu Li 's Homepage"
   left:
     - text: "Publications"
       icon: fa-book  fa-2x
