@@ -1,5 +1,9 @@
+<div class="begin-examples"></div>
+```
+![alt text](https://github.com/codemarsyu/codemarsyu.github.io/blob/master/touxiang.jpg)
+```
 
- 
+```
 I am a PhD student of the [Department of Computer Science and Engineering](https://cse.uta.edu/index.php) at the [University of Texas at Arlington](http://www.uta.edu/uta/). I am currently working on data mining, machine learning, computer vision and their applications, under the supervision of [Dr. Junzhou Huang](http://ranger.uta.edu/~huang/).
 
 Previously, I was a Research Associate at the Centre for Infocomm Technology (INFINITUS), [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx), Singapore. I worked on GPS-free Collaborative Urban Positioning System. Before joining NTU, I received my M.Sci. in the Department of Electrical Eingineering and Computer Science, Syracuse University, advised by [Dr. Pramod Varshney](http://ecs.syr.edu/research/sensorfusionlab/people/varshney/) in 2012 and B.Eng. in the Department of Civial Aviation Engineering, the [Northwestern Polytechnical University](http://hangkong.nwpu.edu.cn/home/Department/dptshow/DepartmentofCivilAviationEngineering.html) (NWPU) of China in 2010.
@@ -20,6 +24,8 @@ Comming soon
 * Onur Ozdemir, **Ruoyu Li**,  Pramod K. Varshney, “Hybrid Maximum Likelihood Modulation Classification Using Multiple Radios,” Communications Letters, IEEE , vol.17, no.10, pp.1889,1892, October 2013.
 
 * **Ruoyu Li**, _Master Thesis_, "Modulation classification and parameter estimation in wireless networks." (2012).
+```
+<div class="end-examples"></div>
 
 ### Contact
 
