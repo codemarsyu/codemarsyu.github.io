@@ -8,29 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am a PhD student of the department of Computer Science and Engineering at the University of Texas at Arlington. I am currently working on data mining, machine learning, computer vision and their applications, under the supervision of Dr. Junzhou Huang.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Publication
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codemarsyu/codemarsyu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Ruoyu Li, Junzhou Huang, “Fast Regions-of-Interest Detection in Whole Slide Histopathology Images,” 1st International Workshop on Patch-based Techniques in Medical Imaging, PMI'15, Munich, Germany, October 2015. (**Oral Presentation**).
+* 
 
 ### Support or Contact
 
