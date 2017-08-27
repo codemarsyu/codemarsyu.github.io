@@ -1,2 +1,0 @@
-# codemarsyu.github.io
-homepage
